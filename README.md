@@ -114,9 +114,3 @@ ansible-playbook site.yml --tags users
 # Only configure SSH keys (users role)
 ansible-playbook site.yml --tags ssh
 ```
-
-### Example
-
-Below is an example demonstrating how the role operates in practice, including how you can verify and present proof the role in action.
-
-TODO: add below at the end
